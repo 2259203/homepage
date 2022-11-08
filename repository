@@ -1,2 +1,31 @@
-homepage
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+    background-color: ;
+}
 
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+p {
+    font-family:arial black;
+    font-size: 18px;
+}
+
+
+</style>
+</head>
+<body>
+
+<h1>生態系による防災や減災について</h1>
+<h2>世界の自然環境について<h2>
+<p>地球温暖化により、海面上昇や集中豪雨などの発生頻度が年々増加傾向にあり、洪水や高潮などの自然災害が発生するリスクが増加してきている。</p>
+<h3>Eco-DRRについて<h3>
+<p>森林等の生態系を活用した防災や減災のことを、「Eco-DRR」（Ecosystem-based Disaster Risk Reduction)という。
+
+</body>
+</html>
